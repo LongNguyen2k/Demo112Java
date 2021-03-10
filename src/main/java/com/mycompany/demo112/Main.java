@@ -19,4 +19,8 @@ public class Main {
        System.out.println("Hello World !");
        System.out.println("New Feature Here solve master  !");
    }
+   public void XuatCau()
+   {System.out.print("New Conflit change !");
+   
+           }
 }
