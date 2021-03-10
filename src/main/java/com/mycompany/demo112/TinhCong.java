@@ -9,14 +9,6 @@ package com.mycompany.demo112;
  *
  * @author Windows 10
  */
-public class Main {
-    public int TinhCong(int a , int b )
-    {
-        return a + b;
-    }
-   public static void main(String[] args)
-   {
-       System.out.println("Hello World !");
-       System.out.println("New Feature Here !");
-   }
+public class TinhCong {
+    
 }
